@@ -11,7 +11,7 @@
                  padding: 1px;
             }
             div{
-                width: 400px;
+                width: 300px;
                 height: 400px;  
                 padding: 0px 50px;
             }
