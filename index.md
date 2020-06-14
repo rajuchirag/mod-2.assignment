@@ -3,58 +3,58 @@
         <title>Assignment-1</title>
         <style>
             h1{
-    text-align: center;
-    color: black;
-    font-family: cursive;
-}
-body{
-    padding: 1px;
-}
-div{
-    width: 400px;
-    height: 400px;  
-    padding: 0px 50px;
-}
-p{
-    text-align: justify;
-    padding: 20px;
-    border: 1px solid black;
-    background-color: #979999;
-    float: right;
-}
-#A{
-    color: black;
-    background-color: pink;
-    width: 100px;
-    text-align: center;
-    border: 1px solid black;
-    float: right;
-}
-#B{
-    color: white;
-    background-color: red;
-    width: 100px;
-    text-align: center;
-    border: 1px solid black;
-    float: right;
-}
-#C{
-    color: black;
-    background-color: #E5E35F;
-    width: 100px;
-    text-align: center;
-    border: 1px solid black;
-    float: right;
-}
-.chirag{
-    float: left;
-}
-.bhumi{
-    float: left;
-}
-.arpit{
-    float: left;
-}
+                text-align: center;
+                color: black;
+                font-family: cursive;
+            }
+            body{
+                 padding: 1px;
+            }
+            div{
+                width: 400px;
+                height: 400px;  
+                padding: 0px 50px;
+            }
+            p{
+                text-align: justify;
+                padding: 20px;
+                border: 1px solid black;
+                background-color: #979999;
+                float: right;
+            }
+            #A{
+                color: black;
+                background-color: pink;
+                width: 100px;
+                text-align: center;
+                border: 1px solid black;
+                float: right;
+            }
+            #B{
+                color: white;
+                background-color: red;
+                width: 100px;
+                text-align: center;
+                border: 1px solid black;
+                float: right;
+            }
+            #C{
+                color: black;
+                background-color: #E5E35F;
+                width: 100px;
+                text-align: center;
+                border: 1px solid black;
+                float: right;
+            }
+            .chirag{
+                float: left;
+            }
+            .bhumi{
+                float: left;
+            }
+            .arpit{
+                float: left;
+            }
         </style>
     </head>
     <body>
