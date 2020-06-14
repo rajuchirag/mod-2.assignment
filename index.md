@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/rajuchirag/mod-2.assignment/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajuchirag/mod-2.assignment/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+    <head>
+        <title>Assignment-1</title>
+        <style>
+            h1{
+    text-align: center;
+    color: black;
+    font-family: cursive;
+}
+body{
+    padding: 1px;
+}
+div{
+    width: 400px;
+    height: 400px;  
+    padding: 0px 50px;
+}
+p{
+    text-align: justify;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: #979999;
+    float: right;
+}
+#A{
+    color: black;
+    background-color: pink;
+    width: 100px;
+    text-align: center;
+    border: 1px solid black;
+    float: right;
+}
+#B{
+    color: white;
+    background-color: red;
+    width: 100px;
+    text-align: center;
+    border: 1px solid black;
+    float: right;
+}
+#C{
+    color: black;
+    background-color: #E5E35F;
+    width: 100px;
+    text-align: center;
+    border: 1px solid black;
+    float: right;
+}
+.chirag{
+    float: left;
+}
+.bhumi{
+    float: left;
+}
+.arpit{
+    float: left;
+}
+        </style>
+    </head>
+    <body>
+        <h1>Our Menu</h1>
+        <div class="chirag">
+            <h2 id="A">Chicken</h2>
+            <p>
+                Chicken is the most common type of poultry in the world.Owing to the relative ease and low cost of raising them in comparison to animals such as cattle or hogs, chickens have become prevalent throughout the cuisine of cultures around the world, and their meat has been variously adapted to regional tastes. Chicken can be prepared in a vast range of ways, including baking, grilling, barbecuing, frying, and boiling, among many others, depending on its purpose. Since the latter half of the 20th century.
+            </p>
+        </div>
+        <div class="bhumi">
+            <h2 id="B">Beef</h2>
+            <p>
+                Most beef skeletal muscle meat can be used as is by merely cutting into certain parts, such as roasts, short ribs or steak (filet mignon, sirloin steak, rump steak, rib steak, rib eye steak, hanger steak, etc.), while other cuts are processed (corned beef or beef jerky). Trimmings, on the other hand, are usually mixed with meat from older, leaner (therefore tougher) cattle, are ground, minced or used in sausages. The blood is used in some varieties called blood sausage. Other parts that are eaten include other muscles and offal.
+        </div>
+        <div class="arpit">
+            <h2 id="C">Sushi</h2>
+            <p>
+                Sushi is a Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanying a variety of ingredients , such as seafood, vegetables, and occasionally tropical fruits. Styles of sushi and its presentation vary widely, but the one key ingredient is "sushi rice", also referred to as shari, or sumeshi.
+                Sushi is traditionally made with medium-grain white rice, though it can be prepared with brown rice or short-grain rice. It is very often prepared with seafood, such as squid, eel.
+            </p>
+        </div>
+    </body>
+</html>
